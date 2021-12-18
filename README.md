@@ -1,0 +1,2 @@
+# mfe-sandbox
+MicroFrontend sandbox
